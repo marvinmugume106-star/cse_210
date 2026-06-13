@@ -1,0 +1,3 @@
+Score|150
+ChecklistGoal|Temple Visits|Attend temple 3 times|50|3|100|1
+SimpleGoal|Morning Run|Daily exercise|100|True

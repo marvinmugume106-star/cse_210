@@ -1,0 +1,4 @@
+Score|150
+SimpleGoal|Morning Run|Daily exercise|100|False
+EternalGoal|Scripture Study|Read scriptures|20|0
+ChecklistGoal|Temple Visits|Attend temple 3 times|50|100|5|3
